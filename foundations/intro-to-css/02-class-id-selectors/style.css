@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(243, 188, 197);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second {
+    color: rgb(69, 24, 230);
+    font-size: 36px;
+}
+.paragraph{
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgb(48, 226, 75);
+    font-weight: bold;
+}
